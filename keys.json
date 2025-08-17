@@ -1,6 +1,8 @@
 {
-    "user1": "key-user1-abc",
-    "user2": "key-user2-xyz",
-    "user3": "key-user3-123"
-    "user" :"BG9JYWXOB3N0"
+
+    "approved": [
+    "BG9JYWXOB3N0",
+    "key-user1-abc",
+    "key-user2-xyz",
+    "key-user3-123"
 }
